@@ -1,0 +1,45 @@
+[
+    {
+        "id":"1",
+        "nombre":"jazmin",
+        "apellido":"carmona",
+        "nacionalidad":"mexicana"
+
+    },
+
+    {
+        "id":"2",
+        "nombre":"lourdes",
+        "apellido":"bertran",
+        "nacionalidad":"mexicana"
+    },
+
+    {
+        "id":"3",
+        "nombre":"marlene",
+        "apellido":"mancia",
+        "nacionalidad":"salvadoreña"
+    },
+
+    {
+        "id":"4",
+        "nombre":"maribel",
+        "apellido":"zolano",
+        "nacionalidad":"mexicana"
+    },
+
+    {
+        "id":"5",
+        "nombre":"andrea",
+        "apellido":"lopez",
+        "nacionalidad":"salvadoreña"
+    },
+
+    {
+        "id":"6",
+        "nombre":"rodrigo",
+        "apellido":"ramirez",
+        "nacionalidad":"salvadoreña"
+    }
+    
+]
